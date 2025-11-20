@@ -1,0 +1,4 @@
+baseURL = "https://networknimble.info/"
+languageCode = "en-us"
+title = "Network Nimble Blog"
+theme = "PaperMod"
